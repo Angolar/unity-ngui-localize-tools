@@ -18,3 +18,5 @@ so that's purpose .
 
 
 第一次使用github上传资料。东西可能比较简单，主要是在项目中发现一些预设上挂了Uilabel，而这些UILabel 有两种，因此今天花了一天时间，整理下下这些label ,并将这些Label上的字添加到CSV文件里面。
+
+http://blog.csdn.net/u010202725/article/details/53543439
